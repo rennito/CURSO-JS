@@ -10,6 +10,7 @@ else{
 
 // EJEMPLO IF ELSE
 let numero = 58;
+let numero12= 12;
 
 if(numero == 1){ 
     console.log("Numero Uno");
